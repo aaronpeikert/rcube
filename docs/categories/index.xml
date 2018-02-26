@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on A Hugo website</title>
-    <link>https://github.com/aaronpeikert/rcube/categories/</link>
+    <link>https://aaronpeikert.github.io/rcube/categories/</link>
     <description>Recent content in Categories on A Hugo website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://github.com/aaronpeikert/rcube/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://aaronpeikert.github.io/rcube/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>R</title>
-      <link>https://github.com/aaronpeikert/rcube/categories/r/</link>
+      <link>https://aaronpeikert.github.io/rcube/categories/r/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>https://github.com/aaronpeikert/rcube/categories/r/</guid>
+      <guid>https://aaronpeikert.github.io/rcube/categories/r/</guid>
       <description></description>
     </item>
     
